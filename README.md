@@ -7,6 +7,7 @@
   <a href="https://www.linkedin.com/in/boyuandeng1/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
+    <img src="https://komarev.com/ghpvc/?username=bydeng01&label=Profile%20Views&style=flat" />
 </p>
 
 ## GitHub Stats
