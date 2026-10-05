@@ -1,5 +1,14 @@
 # [Boyuan Deng](https://bydeng01.github.io/)
 
+<p>
+  <a href="https://scholar.google.com/citations?user=FvFG7_gAAAAJ&hl=en">
+    <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/boyuandeng1/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
 ## GitHub Stats
 
 <p align="center">
