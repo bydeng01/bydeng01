@@ -1,16 +1,19 @@
-## Hi there 👋
+# [Boyuan Deng](https://bydeng01.github.io/)
 
-<!--
-**bydeng01/bydeng01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## GitHub Stats
 
-Here are some ideas to get you started:
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=bydeng01&show_icons=true&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bydeng01&layout=compact&hide_border=true" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## LeetCode
+
+<p align="center">
+  <a href="https://leetcode.com/u/bydeng01/">
+    <img width="35%" src="https://leetcode-stats-six.vercel.app/bydeng01" />
+  </a>
+  <a href="https://leetcode.com/u/bydeng01/">
+    <img width="63%" src="https://leetcode-stats-six.vercel.app/bydeng01/graph?width=600" />
+  </a>
+</p>
